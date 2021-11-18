@@ -1,0 +1,30 @@
+_repo: A-mi-edes-magyar-nyelvunk_66556
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berczik, Á. (Árpád)
+    aliases:
+    - Berczik, Arpad
+    - Berczik, Árpád
+    birthdate: 1842
+    deathdate: 1919
+    gutenberg_agent_id: '39959'
+    url: http://www.gutenberg.org/2009/agents/39959
+    wikipedia: https://hu.wikipedia.org/wiki/Berczik_%C3%81rp%C3%A1d_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66556'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian language'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Bevezetés -- A nyelvtisztaság más nemzeteknél -- A nyelvtisztaság
+  nálunk -- Mi az idegen szó és mikor használhatunk idegen szót -- A germanizmus --
+  Mit cselekedjünk a nyelvtisztaság érdekében.
+title: A mi édes magyar nyelvünk
+url: http://www.gutenberg.org/ebooks/66556
